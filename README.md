@@ -1,6 +1,10 @@
 # Cancer Patient Analysis Dashboard
 This Power BI dashboard presents an in-depth analysis of cancer patient outcomes, hospital performance, and the distribution of cancer types across a population of 10,000 patients. The dashboard is designed to provide healthcare professionals, analysts, and policymakers with critical insights into recovery trends, mortality rates, and contributing risk factors.
 
+![cancer analysis pdf](https://github.com/user-attachments/assets/f8fcbe89-69aa-40aa-acfa-a6c193621979)
+
+
+
 ## Key Highlights
 
 - Total Patients Analyzed: 10,000
